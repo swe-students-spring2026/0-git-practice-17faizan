@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/
+
+This is an article about how Google Chrome is making progress on AI browsers by integrating Gemini into Chrome, and allowing agentic features for autonomous tasks. This article is interesting to me because I keep up with the sort of AI race that has been going on the past few years, as certain companies like OpenAI, Google, Meta, Microsoft, Anthropic, etc are trying to establish themselves as AI powerhourses. 
+
+This article is an example of how Google's widely used ecosystem of products allows them to advertise the use of their AI system better than other companies. Google can integrate Gemini into Chrome (the most popular web browser), Gmail(the most popular email system), YouTube, and much more. This allows them to demonstrate the use of Gemini much easier than other companies can show off their own AI systems, and is a reason why they are pulling away from the rest of the competition of having the best commercial LLM on the market.
